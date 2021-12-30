@@ -61,5 +61,4 @@ class QuizBrain {
   reset() {
     _questionNumber = 0;
   }
-
-  
+}
